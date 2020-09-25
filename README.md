@@ -2,23 +2,22 @@
 
 ![](https://komarev.com/ghpvc/?username=oke-aditya&color=green)
 
-- Hello, I am Aditya Oke.
-- I am an aspiring Machine Learning Engineer.
+- Hello, I am Sagnik Das.
+- Currently a PhD Candidate at Stony Brook University Computer Science Department.
+- My general research interests lie in the intersection of computer vision and computer graphics.
 
 About Me:
 
-- 🔭 I’m currently working on: [CNN Trainer](https://github.com/oke-aditya/pytorch_cnn_trainer) and [IceVision](https://github.com/airctic/icevision)
-- 🌱 I’m currently learning: NLP, Transformers.
-- 👯 I’m looking to collaborate on: PyTorch Projects.
-- 🤔 I’m looking for help with: Reinforcement Learning.
-- 💬 Ask me about: ML, DL, Computer Vision, NLP, DevOps, Cloud. Happy to help anytime.
-- 📫 How to reach me: PM me on [LinkedIn](https://www.linkedin.com/in/aditya-oke-99b74717a/). Or raise a GitHub Issue in [this](https://github.com/oke-aditya/oke-aditya) repo. I would he happy to contact.
-- 😄 Pronouns: OK. People love to call me OK.
-- ⚡ Fun fact: I am active almost 24x7. Reach me anytime.
+- 🔭 I’m currently working on: Document Unwarping or recovering flatbed scanned images from single RGB image of a document. 
+- 🌱 I’m currently learning: Neural rendering/inverse rendering, Illumination modeling (SVBRDF etc.).
+- 👯 I’m looking to collaborate on: Neural Inverse Rendering.
+- 🤔 I’m looking for help with: Non-rigid deformation modeling.
+- 💬 Ask me about: ML, DL, Computer Vision, Computer Graphics, NLP. Happy to help anytime.
+- 📫 How to reach me: PM me on [LinkedIn](https://www.linkedin.com/in/sagniklp/) or Email me at `sadas[at]cs[dot]stonybrook[dot]edu`
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=oke-aditya&show_icons=true"
-        alt="oke-aditya" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagniklp&show_icons=true"
+        alt="sagniklp" />
 </p>
 <br>
 <p align="left">
