@@ -17,6 +17,8 @@ About Me:
 
 [![Sagnik's github stats](https://github-readme-stats.vercel.app/api?username=sagniklp)](https://github.com/sagniklp/github-readme-stats)
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagniklp)](https://github.com/sagniklp/github-readme-stats)
+<br>
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
