@@ -22,10 +22,12 @@ About Me:
 <table border="0">
  <tr>
     <td>
-        [![Sagnik's github stats](https://github-readme-stats.vercel.app/api?username=sagniklp)](https://github.com/sagniklp/github-readme-stats)
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagniklp&show_icons=true"
+        alt="sagniklp" />
     </td>
     <td>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagniklp)](https://github.com/sagniklp/github-readme-stats)
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagniklp&show_icons=true"
+        alt="sagniklp" />
     </td>
  </tr>
 </table>
