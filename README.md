@@ -20,7 +20,7 @@ About Me:
         alt="sagniklp" />
     </td>
     <td style="padding: 15px 0px 0px 0px;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagniklp&show_icons=true"
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagniklp&show_icons=true&layout=compact"
         alt="sagniklp" />
     </td>
  </tr>
