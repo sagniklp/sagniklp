@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=sagniklp&color=green)
-
 - Hello, I am Sagnik Das.
 - Currently a PhD Candidate at Stony Brook University Computer Science Department.
 - My general research interests lie in the intersection of computer vision and computer graphics.
@@ -14,14 +12,14 @@ About Me:
 - 🤔 I’m looking for help with: Non-rigid deformation modeling.
 - 💬 Ask me about: ML, DL, Computer Vision, Computer Graphics, NLP. Happy to help anytime.
 - 📫 How to reach me: PM me on [LinkedIn](https://www.linkedin.com/in/sagniklp/) or Email me at `sadas[at]cs[dot]stonybrook[dot]edu`
-
+<br>
 <table>
  <tr>
-    <td style="padding: 15px 0px 0px 0px;">
+    <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagniklp&show_icons=true"
         alt="sagniklp" />
     </td>
-    <td>
+    <td style="padding: 15px 0px 0px 0px;">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagniklp&show_icons=true"
         alt="sagniklp" />
     </td>
