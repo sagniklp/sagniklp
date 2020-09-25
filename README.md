@@ -15,10 +15,7 @@ About Me:
 - 💬 Ask me about: ML, DL, Computer Vision, Computer Graphics, NLP. Happy to help anytime.
 - 📫 How to reach me: PM me on [LinkedIn](https://www.linkedin.com/in/sagniklp/) or Email me at `sadas[at]cs[dot]stonybrook[dot]edu`
 
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagniklp&show_icons=true"
-        alt="sagniklp" />
-</p>
+[![Sagnik's github stats](https://github-readme-stats.vercel.app/api?username=sagniklp)](https://github.com/sagniklp/github-readme-stats)
 <br>
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
